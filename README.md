@@ -1,4 +1,5 @@
 Projeto Landing Page da Clínica Vida & Saúde
+
 Este repositório contém os arquivos necessários para a criação de uma landing page estática para a Clínica Vida & Saúde. Siga as instruções abaixo para executar o projeto localmente.
 
 Estrutura do Projeto
